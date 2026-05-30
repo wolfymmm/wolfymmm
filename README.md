@@ -1,6 +1,4 @@
-## 📍 About me
-
-Hi, I'm Yana! I'm a Full-Stack Developer & UI/UX Designer. I absolutely love both coding and designing — for me, building the backend, perfecting the frontend, and creating the UI go hand in hand. Right now, I'm deep-diving into React and exploring AI/LLM integrations.
+Full-Stack Developer & UI/UX Designer. I absolutely love both coding and designing — for me, building the backend, perfecting the frontend, and creating the UI go hand in hand. Right now, I'm deep-diving into React and exploring AI/LLM integrations.
 
 
 ### Stack:
