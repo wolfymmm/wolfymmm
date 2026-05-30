@@ -1,4 +1,4 @@
-## ⭐ Information
+## 🎀 Information
 
 - **Name:** Yana Marusina
 - **Age:** 20 y.o.
